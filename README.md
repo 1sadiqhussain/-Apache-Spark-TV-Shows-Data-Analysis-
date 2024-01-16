@@ -1,4 +1,4 @@
-# -Apache-Spark-TV-Shows-Data-Analysis-
+# Apache-Spark-TV-Shows-Data-Analysis-
 # Apache Spark Data Analysis 🚀
 
 This Python script demonstrates data analysis using Apache Spark in a Google Colab environment. It covers the process of loading, exploring, and manipulating data, followed by insightful visualizations. Let's break down the code and how to use it.
